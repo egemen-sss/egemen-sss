@@ -7,6 +7,6 @@
 
 [![Discord Badge](https://img.shields.io/badge/Instagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/egemen.sener/)
 
-<h1 align="center"> My Discord Acc </h1>
+<h1 align="center"> My Discord </h1>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/714803354055737366)](https://discord.com/users/714803354055737366)
